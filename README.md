@@ -1,2 +1,2 @@
 # learning-rust
-A spot for me to learn Rust
+A repo for me to learn Rust
